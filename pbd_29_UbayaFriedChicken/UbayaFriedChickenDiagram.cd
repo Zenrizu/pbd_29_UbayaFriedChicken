@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pbd_29_UbayaFriedChicken.Kategori">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAMAIAAAAQAAAAEAAAQAAAAQAACAAAAA=</HashCode>
+      <FileName>Kategori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.Jabatan">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAIAAAAAAQAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jabatan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.Bank">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAIAAAAQQAAAEEAAQAAAAQAAAAAAAA=</HashCode>
+      <FileName>Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.NotaJual">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAAAAYAAEBAAABAAAAAACAEAABQBSAgRAEA=</HashCode>
+      <FileName>NotaJual.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Pegawai" />
+      <Property Name="Pelanggan" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.Pelanggan">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAMAIAQAAQCEAAEBAQQICQEYCAgAGAAA=</HashCode>
+      <FileName>Pelanggan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.Produk">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAAAAQAOAIAAIgQABAAEAAQQAAAAQAAAAgAAA=</HashCode>
+      <FileName>Produk.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Kategori" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.NotaJualDetil">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAASgAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotaJualDetil.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Produk" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.Pegawai">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAABgAAMAIAQIASAEAAcACAQKCAgQDAgBAAQA=</HashCode>
+      <FileName>Pegawai.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Jabatan" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.TopUp">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAABAAMAIQAAAAQAAAAEAAQAAAAQAQAAAAEA=</HashCode>
+      <FileName>TopUp.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Pelanggan" />
+      <Property Name="Bank" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.RewardNotaJual">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>RewardNotaJual.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Reward" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.Reward">
+    <Position X="8.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAAACAAAAMAIAAAAQAAAAEAAAQIAAAQCAAAAIAA=</HashCode>
+      <FileName>Reward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.DiskonNotaJualDetil">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>DiskonNotaJualDetil.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NotaJualDetil" />
+      <Property Name="Diskon" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pbd_29_UbayaFriedChicken.Diskon">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diskon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

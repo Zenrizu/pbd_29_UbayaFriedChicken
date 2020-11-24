@@ -1,0 +1,29 @@
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csprojAssemblyReference.cache
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CoreCompileInputs.cache
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\bin\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\bin\Debug\pbd_29_UbayaFriedChicken.pdb
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\bin\Debug\MySql.Data.dll
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CopyComplete
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\Golden\source\repos\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.pdb
+C:\Users\user\Desktop\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\user\Desktop\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.pdb
+C:\Users\Golden\Videos\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\bin\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\Golden\Videos\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\bin\Debug\pbd_29_UbayaFriedChicken.pdb
+C:\Users\Golden\Videos\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\bin\Debug\MySql.Data.dll
+C:\Users\Golden\Videos\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CoreCompileInputs.cache
+C:\Users\Golden\Videos\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CopyComplete
+C:\Users\Golden\Videos\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\Golden\Videos\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.pdb
+C:\Users\Golden\Music\PBD\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\bin\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\Golden\Music\PBD\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\bin\Debug\pbd_29_UbayaFriedChicken.pdb
+C:\Users\Golden\Music\PBD\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CoreCompileInputs.cache
+C:\Users\Golden\Music\PBD\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CopyComplete
+C:\Users\Golden\Music\PBD\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\Golden\Music\PBD\UBAYA FRIED CHICKEN\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.pdb
+C:\Users\user\Desktop\pbd_29_UbayaFriedChicken\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csprojAssemblyReference.cache
+C:\Users\user\Desktop\pbd_29_UbayaFriedChicken\pbd_29_UbayaFriedChicken\obj\Debug\Sistem_UbayaFriedChicken.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pbd_29_UbayaFriedChicken\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.dll
+C:\Users\user\Desktop\pbd_29_UbayaFriedChicken\pbd_29_UbayaFriedChicken\obj\Debug\pbd_29_UbayaFriedChicken.pdb
