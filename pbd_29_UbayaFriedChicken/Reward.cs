@@ -8,7 +8,7 @@ namespace pbd_29_UbayaFriedChicken
 {
     public class Reward
     {
-        #region reward
+        #region fields
         private string idReward;
         private string nama;
         private string jenis_barang;
